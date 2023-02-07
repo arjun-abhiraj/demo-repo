@@ -1,3 +1,3 @@
 # demo
 
-Some descreption
+Some description
